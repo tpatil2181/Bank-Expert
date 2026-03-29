@@ -6,3 +6,4 @@ import jakarta.persistence.Entity;
 public class Branch {
 
 }
+sdfsdf
